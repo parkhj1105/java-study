@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="C:/Users/WEAVUS/Downloads/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0/mysql-connector-j-9.0.0.jar" sourcepath="C:/Users/WEAVUS/AppData/Local/Temp/.org.sf.feeling.decompiler1722557551325/source/mysql-connector-j-9.0.0-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/WEAVUS/Downloads/jcalendar-1.4/lib/jcalendar-1.4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/WEAVUS/Downloads/javax.mail.jar" sourcepath="C:/Users/WEAVUS/AppData/Local/Temp/.org.sf.feeling.decompiler1722557551325/source/javax.mail-1.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WEAVUS/Downloads/h2-2019-10-14/h2/bin/h2-1.4.200.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

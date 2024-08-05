@@ -10,7 +10,8 @@ public class DbConn {
 
     public static void getConnection() {
 
-        String url = "jdbc:mysql://localhost:3306/resrvation";
+//        String url = "jdbc:mysql://localhost:3306/resrvation";
+        String url = "jdbc:h2:~/resrvation";
 
         String id = "root";
 

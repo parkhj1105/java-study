@@ -34,7 +34,7 @@ public class LoginFrame extends JFrame {
         JPanel mainP = new JPanel(new GridLayout(4, 1));
 
         JPanel p0 = new JPanel();
-        JLabel l0 = new JLabel("お悩み解決！！JISA予約★");
+        JLabel l0 = new JLabel("お悩み解決！！○○予約★");
         l0.setFont(new Font("MS Gothic", Font.BOLD, 25));
         l0.setForeground(new Color(0, 0, 255));
         p0.add(l0);
